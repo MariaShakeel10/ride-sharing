@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.nav-bar {
+    background-color: white !important;
+}
+
+.btn-theme {
+    background-color: green;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 180px;
+    height: 51px;
+    top: 85px;
+    left: 80px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.sec-2 {
+    background-color:#75BF7A ;
+}
+.text-w {
+    color: white;
+}
